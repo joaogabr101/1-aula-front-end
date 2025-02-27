@@ -1,1 +1,1 @@
-# 1-aula-front-end
+# 1-aula-front-end exibe formas geométricas coloridas
